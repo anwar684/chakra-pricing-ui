@@ -17,7 +17,7 @@ export default function Pricing() {
       <Box
         maxW={'992px'}
         mx = {{base: '10px', md: 'auto', lg: 'auto'}}
-        mt="-141"
+        mt="-140"
         bg="#FFFFFF"
         borderRadius="12px"
         overflow={'hidden'}

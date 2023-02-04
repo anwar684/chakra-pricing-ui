@@ -10,7 +10,7 @@ import TermsConditions from './TermsConditions'
 
 export default function Home() {
   return (
-    <div>
+    <div className='abc'>
       <Header/>
       <Pricing/>
       <TermsConditions/>
